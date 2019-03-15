@@ -1,4 +1,4 @@
 # Regerssion-Analysis
 My data analysis projects using multiple regression, survival analysis and others
 
-See the jupyter notebook file for detail looks
+[Olympic Analysis](https://github.com/EZIOJQ/Regerssion-Analysis/blob/master/Olympic%20Analysis.ipynb)
